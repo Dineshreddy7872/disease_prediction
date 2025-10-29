@@ -60,7 +60,7 @@ Web App	Streamlit
 
 # ⚙️ Setup and Installation
 # 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/disease-prediction-eda.git
+git clone (https://github.com/Dineshreddy7872/disease_prediction/blob/main/README.md)
 cd disease-prediction-eda
 
 # 2️⃣ Create a Virtual Environment
